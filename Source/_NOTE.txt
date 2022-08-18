@@ -1,0 +1,3 @@
+Khi biên dịch thầy nhớ đưa (Folder images + data.json + data.docx) ở Folder Release vào folder chứa file Server.py thì chương trình mới hoạt động ạ!
+
+image.py đã được import vào Client.py nên khi biên dịch thầy chỉ cần biên dịch file Client.py là được ạ!
